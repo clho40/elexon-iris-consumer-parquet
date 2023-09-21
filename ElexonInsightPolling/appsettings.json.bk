@@ -1,0 +1,9 @@
+﻿{
+  "TenantId": "1a235385-5d29-40e1-96fd-bc5ec2706361",
+  "ClientId": "your client id",
+  "QueueName": "your queue",
+  "ServiceBusNamespace": "elexon-iris",
+  "Secret": "your secret",
+  "StorageAccountConnectionString": "your connection string",
+  "DatalakeContainerName": "your container name"
+}
